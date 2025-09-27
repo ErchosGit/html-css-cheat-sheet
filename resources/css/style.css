@@ -1,0 +1,22 @@
+table, th, tr, td {
+    border: 1px solid;
+}
+
+th ,td {
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+h1 , h2 {
+    text-align: center;
+}
+
+#html_layout {
+    display: inline-block;
+}
+
+
+
